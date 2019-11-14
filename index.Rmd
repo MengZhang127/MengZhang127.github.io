@@ -1,0 +1,20 @@
+---
+  title: "Meng's work"
+  output:
+    html_document:
+      tic:false
+---
+# profile
+  Hello, Website!
+  i'm a studehnt in A graduate student that specializes in geospatial/environmental analytics, using both scripting environments and dedicated GIS platforms. Professional experience with GIS, remote sensing and environmental data analytics, own skills with regards to statistics, data analysis, and data handling. Experienced in international working environments and possesses good communication skills. Aims to find a starting point which has great learning opportunity and exciting challenge as a data scientist. 
+
+### studentbALSJDHF
+  A graduate student that specializes in geospatial/environmental analytics, using both scripting environments and dedicated GIS platforms. Professional experience with GIS, remote sensing and environmental data analytics, own skills with regards to statistics, data analysis, and data handling. Experienced in international working environments and possesses good communication skills. Aims to find a starting point which has great learning opportunity and exciting challenge as a data scientist. 
+
+
+### cONTACT INFORMATION
+
+[(LINKEDIN)](https://www.wur.nl/en/Research-Results/Chair-groups/Environmental-Sciences/Water-Systems-and-Global-Change-Group/research.htm)
+  
+### TRY
+  PLEASE DONT GIVE UP MENG
