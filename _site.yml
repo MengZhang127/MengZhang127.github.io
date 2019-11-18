@@ -1,14 +1,14 @@
 
-name: "Meng Zhang's webpage"
+name: "xxx"
 navbar:
  
   left:
-    - text: "Personal info & Education background"
+    - text: "Meng Zhang's webpage"
       href: index.html
-    - text: "Projects & Experiences"
-      href: about.html
-    - text: "Contact"
-      href: contact.html
+#    - text: "Projects & Experiences"
+#      href: about.html
+#    - text: "Contact"
+#      href: contact.html
 output:
   html_document:
     highlight: textmate

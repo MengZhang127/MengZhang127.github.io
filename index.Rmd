@@ -1,22 +1,72 @@
 ---
-  title: "Meng Zhang webpage"
+  title: <span style="font-family:Papyrus; font-size:1.2em;">Meng Zhang</span>
   output:
     html_document:
       tic:false
 ---
-# profile
+ <p style="font-family: times, serif; font-size:15pt; font-style:italic">MSc graduate Geo-Information Science in Wageningen University & Research</p>
 
-<img align="left" src="figures/profile.jpg" width=40% >  
-img{
-  margin-right:5px;
-}
-Hello, Website!i'm a studehnt in A graduate student that specializes in geospatial/environmental analytics, using both scripting environments and dedicated GIS platforms. Professional experience with GIS, remote sensing and environmental data analytics, own skills with regards to statistics, data analysis, and data handling. Experienced in international working environments and possesses good communication skills. Aims to find a starting point which has great learning opportunity and exciting challenge as a data scientist.>
+<br/>
+<p align="left">
+<img style="float: middle;" src="figures/profile.jpg" height = 50% width=30% style="display: block; margin: 10 auto" / >
+<p>
 
-### studentbALSJDHF
-  A graduate student that specializes in geospatial/environmental analytics, using both scripting environments and dedicated GIS platforms. Professional experience with GIS, remote sensing and environmental data analytics, own skills with regards to statistics, data analysis, and data handling. Experienced in international working environments and possesses good communication skills. Aims to find a starting point which has great learning opportunity and exciting challenge as a data scientist. 
+<br/>
 
 
-### cONTACT INFORMATION
+# <span style="font-family:Papyrus; ">Profile</span>
+
+<p style="font-family: times, serif; font-size:13pt; font-style:italic">
+   A recent graduate student has professional experience with remote sensing, GIS and data analytics. Master both scripting environments (R,Python) and dedicated GIS platforms. Own skills with regards to large scale dataset (vector, raster, 3D point cloud data) analyzation. Extremely familiar with digital map creation and visualization. Processes good communication skills. Always been a fast and motivated learner. Aiming to find a starting point which has great learning opportunity and exciting challenge as GIS specialist.<p/>
+
+
+<br/>
+
+# <span style="font-family:Papyrus;">Education & Experiences</span>
+
+<br/>
+
+
+## <span style="font-family:Papyrus;">Master degree</span>
+<img style="float: middle;" src="figures/WUR.PNG" width=15% ><span style="font-family:Papyrus; font-size:1.2em;">Wageningen University & Research</span>
+<p style="font-family: times, serif; font-size:15pt; font-style:italic">
+Main courses:   
+</p>
+<p style="font-family: times, serif; font-size:12pt; font-style:italic">
+Python    
+Remote Sensing   
+Geo-scripting (R)    
+Advanced earth observation    
+Spatial modelling & statistics (R, buidling model)    
+Geo-tools (ArcGIS)   
+Advanced GIS    
+GIS in context   
+Academic Consultancy Training (ACT)
+</p>
+
+<br/>
+
+
+#### <span style="font-family:Papyrus; ">Thesis</span>
+
+
+<br/>
+
+
+#### <span style="font-family:Papyrus;">Internship</span>
+
+
+<br/>
+
+
+## <span style="font-family:Papyrus; ">Bachelor degree</span> 
+<img style="float: middle;" src="figures/hlj.JPG" width=7%  ><span style="font-family:Papyrus; font-size:1.2em;">Heilongjiang Institute of Technology</span>
+
+#### <span style="font-family:Papyrus; ">Remote Sensing</span>
+
+<br/>
+
+### <span style="font-family:Papyrus;">Contact Information</span>
 
 [(LINKEDIN)](https://www.wur.nl/en/Research-Results/Chair-groups/Environmental-Sciences/Water-Systems-and-Global-Change-Group/research.htm)
   
