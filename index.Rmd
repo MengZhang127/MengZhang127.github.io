@@ -1,10 +1,10 @@
 ---
-  title: <span style="font-family:Papyrus; font-size:1.2em;">Meng Zhang</span>
+  title: <span style="font-family:Papyrus; font-size:1.2em;font-style:italic;">Meng Zhang</span>
   output:
     html_document:
       tic:false
 ---
- <p style="font-family: times, serif; font-size:15pt; font-style:italic">MSc graduate Geo-Information Science in Wageningen University & Research</p>
+ <p style="font-family: times, serif; font-size:15pt;">MSc graduate Geo-Information Science in Wageningen University & Research</p>
 
 <br/>
 <p align="left">
@@ -14,61 +14,110 @@
 <br/>
 
 
-# <span style="font-family:Papyrus; ">Profile</span>
+## <span style="font-family:Papyrus;font-style:italic; ">Profile</span>
 
-<p style="font-family: times, serif; font-size:13pt; font-style:italic">
+<p style="font-family: times, serif; font-size:13pt">
    A recent graduate student has professional experience with remote sensing, GIS and data analytics. Master both scripting environments (R,Python) and dedicated GIS platforms. Own skills with regards to large scale dataset (vector, raster, 3D point cloud data) analyzation. Extremely familiar with digital map creation and visualization. Processes good communication skills. Always been a fast and motivated learner. Aiming to find a starting point which has great learning opportunity and exciting challenge as GIS specialist.<p/>
 
 
 <br/>
 
-# <span style="font-family:Papyrus;">Education & Experiences</span>
+## <span style="font-family:Papyrus;font-style:italic;">Education & Experiences</span>
 
 <br/>
 
 
-## <span style="font-family:Papyrus;">Master degree</span>
-<img style="float: middle;" src="figures/WUR.PNG" width=15% ><span style="font-family:Papyrus; font-size:1.2em;">Wageningen University & Research</span>
-<p style="font-family: times, serif; font-size:15pt; font-style:italic">
+#### <span style="font-family:Papyrus;font-style:italic;">Master degree</span>  
+
+
+<img style="float: middle;" src="figures/WUR.PNG" width=15% ><span style="font-family:Papyrus; font-size:1.2em;">Wageningen University & Research</span> --- <span style="font-family:Papyrus;font-size:12pt;font-style:italic;color:red;"> **Geo-information Science(GIS)** </span>
+
+<p style="font-family:times;font-size:14pt;font-style:italic">
+Main courses:   
+</p>
+<p style="font-family: times, serif; font-size:13pt; font-style:italic">
+- Python    
+- Remote Sensing   
+- Geo-scripting (R)    
+- Advanced earth observation    
+- Spatial modelling & statistics (R, buidling model)    
+- Geo-tools (ArcGIS)   
+- Advanced GIS    
+- GIS in context   
+- Academic Consultancy Training (ACT)
+</p>
+
+<br/>
+
+
+<p style="font-family:times;font-size:14pt;font-style:italic">
+Thesis:   
+</p>
+
+<br/>
+
+
+<p style="font-family:times;font-size:14pt;font-style:italic">
+Internship:   
+</p>
+
+<br/>
+
+
+#### <span style="font-family:Papyrus;font-style:italic; ">Bachelor degree</span> 
+<img style="float: middle;" src="figures/hlj.JPG" width=7%  ><span style="font-family:Papyrus; font-size:1.2em;">Heilongjiang Institute of Technology</span> --- <span style="font-family:Papyrus;font-size:12pt;font-style:italic;color:red;"> **Remote Sensing** </span>
+
+
+<p style="font-family:times;font-size:14pt;font-style:italic">
 Main courses:   
 </p>
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
-Python    
-Remote Sensing   
-Geo-scripting (R)    
-Advanced earth observation    
-Spatial modelling & statistics (R, buidling model)    
-Geo-tools (ArcGIS)   
-Advanced GIS    
-GIS in context   
-Academic Consultancy Training (ACT)
+- Advance Mathematics (82/100)        
+- Probabiliry and Mathematical Statistics  (89/100)       
+- Principles and Applications of Remote Sensing  (B)         
+- Digital Image Processing  (90/100)   
+- Foundation of Geodesy  (88/100)    
+- Photogrammetry  (90/100)    
+- GNSS Navigation and Poritioning  (A)        
+- Photogrammetry Field Pratice   (A)      
+- Principles of Geographic Information System (91/100)    
+- Urban Remote Sensing  (A)      
+- CAD Technology  (A)       
+- Remote Sensing Mapping  (A)       
+- ENVI/IDL Remote Sensing Data Processing - 1 week  (A)       
+- Professional skills integrated pratice - 4 weeks  (B)     
+- Digital Mapping Principles and Methods Pratice - 4 weeks (A)      
+- Surveying Pratice - 2 weeks (B)     
+- Practice for RS Image Processing - 1 week (A)          
+- Pratice of Professional Direction - 6 weeks (A)        
+- Innovative Research and Design - 4 weeks (A)     
 </p>
 
 <br/>
 
-
-#### <span style="font-family:Papyrus; ">Thesis</span>
+<p style="font-family:times;font-size:14pt;font-style:italic">
+Experiences:   
+</p>
+<p style="font-family: times, serif; font-size:12pt; font-style:italic">
+- Professional skills integrated pratice - 4 weeks (B) </p>                            
+<p style="font-family: times, serif; font-size:12pt">
+Using RTK, station measuring entire university (including buildings and landscape) </p>     
+<p style="font-family: times, serif; font-size:12pt; font-style:italic">
+- Pratice of Professional Direction - 6 weeks (A)  </p>                            
+<p style="font-family: times, serif; font-size:12pt">
+As part of university project, participated The 3rd National Land Survey in Heilongjiang province </p>     
+<p style="font-family: times, serif; font-size:12pt; font-style:italic">
+- Pratice of Professional Direction - 6 weeks (A) </p>                            
+<p style="font-family: times, serif; font-size:12pt">
+"Challenge Cup" National undergraduate Business Plan Competition. In this competition, our team won the silver awaer of Heilongjiang division </p>     
 
 
 <br/>
 
 
-#### <span style="font-family:Papyrus;">Internship</span>
-
-
-<br/>
-
-
-## <span style="font-family:Papyrus; ">Bachelor degree</span> 
-<img style="float: middle;" src="figures/hlj.JPG" width=7%  ><span style="font-family:Papyrus; font-size:1.2em;">Heilongjiang Institute of Technology</span>
-
-#### <span style="font-family:Papyrus; ">Remote Sensing</span>
-
-<br/>
-
-### <span style="font-family:Papyrus;">Contact Information</span>
-
-[(LINKEDIN)](https://www.wur.nl/en/Research-Results/Chair-groups/Environmental-Sciences/Water-Systems-and-Global-Change-Group/research.htm)
-  
-### TRY
-  PLEASE DONT GIVE UP MENG
+#### <span style="font-family:Papyrus;font-style:italic;">Contact Information</span>
+<p style="font-family: times, serif; font-size:12pt">
+Work Email: zhangmm1995@gmail.com     
+Telephone number: +31 0615167414     
+[LinkedIn link](http://www.linkedin.com/in/meng-zhang-1014)     
+</p>
