@@ -17,7 +17,7 @@
 ## <span style="font-family:Papyrus;font-style:italic; ">Profile</span>
 
 <p style="font-family: times, serif; font-size:13pt">
-   A recent graduate student has professional experience with remote sensing, GIS and data analytics. Master both scripting environments (R,Python) and dedicated GIS platforms. Own skills with regards to large scale dataset (vector, raster, 3D point cloud data) analyzation. Extremely familiar with digital map creation and visualization. Processes good communication skills. Always been a fast and motivated learner. Aiming to find a starting point which has great learning opportunity and exciting challenge as GIS specialist.<p/>
+   A recent graduate student with professional experience in _**Remote Sensing**_, _**GIS**_ and _**data analytics**_. Master both scripting environments (_**R,Python**_) and dedicated GIS/RS platforms (_**QGIS, ENVI, ERDAS IMAGINE, Esri, GRASS GIS, SAGA GIS**_). Own skills with regards to large scale dataset (_**vector, raster, 3D point cloud data**_) analyzation. Always been a fast, motivated learner. Earger to explore and learn new things. Always seek challenges to improve herself. Aiming to use her knowledge as "power" to make the world a better place to live ;).<p/>
 
 
 <br/>
@@ -28,50 +28,59 @@
 
 
 
-<p style="font-family:Papyrus;font-size:16pt;font-style:italic;">Master degree</p>      09/2017-09/2019
+<p style="font-family:Papyrus;font-size:16pt;font-style:italic;">**Master degree**</p>      09/2017-09/2019
 
-<img style="float: middle;" src="figures/WUR.PNG" width=15% > <span style="font-family:Papyrus; font-size:0.9 em;"> Wageningen University & Research <span style="font-family:Papyrus;font-size:12pt;font-style:italic;"> *-- Geo-information Science(GIS)* </span> </span>         
+<img style="float: middle;" src="figures/WUR.PNG" width=15% > <span style="font-family:Papyrus; font-size:12pt;"> **Wageningen University & Research** <span style="font-family:Papyrus;font-size:12pt;font-style:italic;"> --**Geo-information Science(GIS)** </span> </span>          
 
 
 
 <p style="font-family:times;font-size:14pt;font-style:italic">
-Main courses:   
+**Main courses:**   
 </p>
 <p style="font-family: times, serif; font-size:13pt; font-style:italic">
 - Python    
-- Remote Sensing   
-- Geo-scripting (R)    
-- Advanced earth observation    
-- Spatial modelling & statistics (R, buidling model)    
-- Geo-tools (ArcGIS)   
-- Advanced GIS    
+- Remote Sensing (ENVI, ERDAS)       
+- Geo-scripting (R)         
+- Advanced earth observation  
+- Spatial modelling & statistics (R)        
+- Geo-tools (Arcmap)   
+- Advanced GIS  (R,Arcmap)       
 - GIS in context   
-- Academic Consultancy Training (ACT)
+- Academic Consultancy Training (Python, Arcmap, R)
 </p>
 
 <br/>
 
 <p style="font-family:times;font-size:14pt;font-style:italic">
-Internship </p>    05/2019-09/2019: 
+**Internship** </p>     05/2019-09/2019: 
 <p style="font-family:times;font-size:12pt;">
 Topic: Accuracy assessment and improvement of tree localization algorithm       
-Supervisor: Smart Farm Sensing. BV  Laurens Bierens 
+Supervisor: Smart Farm Sensing. BV      Laurens Bierens, Joost van der Gaag, dr.ir. L (Lammert) Kooistra  (associate professor)
 </p>
 
-The company desires to automate the detection of the tree geo-location by integrating GIS data, for instance from aerial photographs and satellite images. It is essential to examine how well the algorithm functions and how the algorithm can be incorporated for company future usage. A testing algorithm (TSVD) is created in this research for examining the accuracy of SVD algorithm. 
 
+The company desires to develop **an automatic workflow for extraction of accurate plant information** and implementation of these information in ArgIOT application. AgrIOT application is a platform that utilizes open source maps and very high resolution (VHR) satellite data to extract individual tree geo-locations of date palm areas. Based on the geo-locations, data base records of individual date palm trees are generated for palm tree data management. Farmers could access individual date palm information via the AgrIOT platform (mobile apps and web-portal).
 
-The practical step by step instructions is presented so that the company can use the SVD algorithm. Results of this research show that SVD algorithm can bring nearly 85% accuracy of detected points in the farms which are regularly planted with young and medium grown trees. For farms with a regular planted pattern but with dense and mature plants, the algorithm can currently reach 50% accuracy. The report also reveals that by using TSVD at a small sample area first, and then apply the resulting outcome into larger study area, is an efficient and applicable way for the company to deal with projects from large farms/organization in the future. 
+Currently, company owns an automate algorithm (SVD) to detect tree location by integrating GIS/RS data, for instance from aerial photographs and satellite images(WorldView-3). However, it is essential to examine how well the algorithm functions and how the algorithm can be incorporated for company future usage. **A testing algorithm (TSVD) is created in both R and Python in this research for examining the accuracy of SVD algorithm.** 
+
+<br/>
+
+**Example of outcomes**
+
+<p align="left">
+<img style="float: middle;" src="figures/workflow.jpg" height = 80% width=60% ><p>
+**Figure 1: Workflow of using SVD and TSVD detecting plant information**
 
 
 <br/>
 
 
+
 <p style="font-family:times;font-size:14pt;font-style:italic">
-Thesis </p>     09/2018-04/2019:
+**Thesis** </p>     09/2018-04/2019:
 <p style="font-family:times;font-size:12pt;">
 Topic: Spatial Analysis and Visualization of Triadic Crop Variety Traits in Central America    
-supervisor: Sytze de bruin
+Supervisor: dr.ir. S (Sytze) de Bruin   (associate professor)
 </p>
 
 **Abstract**
@@ -84,8 +93,7 @@ A rapid increase in population, urbanization, and climate change has put huge pr
 
 <p align="left">
 <img style="float: middle;" src="figures/elevation.jpg" height = 80% width=60% ><p>
-**Figure 1: Crop performance ranking when only use elevation as environmental factor in Plackett-Luce model**
-
+**Figure 2: Crop performance ranking when only use elevation as environmental factor in Plackett-Luce model using R**
 
 
 <br/>
@@ -93,7 +101,7 @@ A rapid increase in population, urbanization, and climate change has put huge pr
 <p align="left">
 <img style="float: middle;" src="figures/shiny.jpg"  >
 <p>
-**Figure 2: Interactive map webpage for accessing crop variety ranking (main user interface)**
+**Figure 3: Interactive map webpage for accessing crop variety ranking (main user interface in Rshiny)**
 
 
 <br/>
@@ -102,20 +110,24 @@ A rapid increase in population, urbanization, and climate change has put huge pr
 
 
 <p style="font-family:Papyrus;font-size:16pt;font-style:italic;">
-Bachelor degree</p>      09/2013-08/2017  
-<img style="float: middle;" src="figures/hlj.JPG" width=7%  ><span style="font-family:Papyrus; font-size:1.2em;">Heilongjiang Institute of Technology</span> --- <span style="font-family:Papyrus;font-size:12pt;font-style:italic;"> *-- Remote Sensing* </span>   
+**Bachelor degree**</p>      09/2013-08/2017  
+<img style="float: middle;" src="figures/hlj.JPG" width=7%  ><span style="font-family:Papyrus; font-size:1.2em;">**Heilongjiang Institute of Technology**</span> --- <span style="font-family:Papyrus;font-size:12pt;font-style:italic;"> **Remote Sensing** </span>   
 
 
 
 <p style="font-family:times;font-size:14pt;font-style:italic">
-Main courses:   
+**Main courses:**   
 </p>
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
 - Advance Mathematics (82/100)        
 - Probabiliry and Mathematical Statistics  (89/100)       
+- College Physics Experiment (B)
+- Advanced Language Programming C# (B)
 - Principles and Applications of Remote Sensing  (B)         
 - Digital Image Processing  (90/100)   
 - Foundation of Geodesy  (88/100)    
+- Surveying and Mapping Case Analysis (A)
+- Computer Cartography (A)
 - Photogrammetry  (90/100)    
 - GNSS Navigation and Poritioning  (A)        
 - Photogrammetry Field Pratice   (A)      
@@ -135,28 +147,57 @@ Main courses:
 <br/>
 
 <p style="font-family:times;font-size:14pt;font-style:italic">
-Experiences:   
+**Experiences:**   
 </p>
-<p style="font-family: times, serif; font-size:12pt; font-style:italic">
-- Professional skills integrated pratice - 4 weeks (B) </p>                            
+- 02/2017-03/2017     Innovative Research and Design - 4 weeks (A)     </p>                            
 <p style="font-family: times, serif; font-size:12pt">
-06/2016-07/2016, 5 students as a group measured all the buildings in the university within one month. We used digital levels, theodolites, and total station. As the team leader, I was in charge of making measure plans and analyze collected data. </p>     
+I participated "Challenge Cup" National undergraduate Business Plan Competition. In this competition, our team won the silver award of Heilongjiang division.    
+Main task: making operation plan for the Pipeline Detection Application</p>   
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
-- Pratice of Professional Direction - 6 weeks (A)  </p>                            
+- 07/2016-08/2016     Professional skills integrated pratice - 4 weeks (B) </p>                            
 <p style="font-family: times, serif; font-size:12pt">
-06/2016- 07/2016, as the cooperation project of my college and State Bureau of Surveying and Mapping, I joined the annual National Land Use Change Survey in Heilongjiang Province.  
+Five peer students as a group measured all the buildings in the university by using digital levels, theodolites, and total station. As the team leader, I was in charge of making measure plans and analyze collected data. </p>     
+<p style="font-family: times, serif; font-size:12pt; font-style:italic">
+- 06/2016- 07/2016    Pratice of Professional Direction - 6 weeks (A)  </p>                            
+<p style="font-family: times, serif; font-size:12pt">
+As the cooperation project of the University and State Bureau of Surveying and Mapping, I joined the annual National Land Use Change Survey in Heilongjiang Province.  
 The aim of the project: The State government purchase the latest remote sensing images covering the whole territory to monitor the situation of newly added built-up land and the occupation on farmland, and then send down monitoring result to the lower level goverments to assist land use chnage survey.   
 Main tasks: digitalize the newly-added built-up land in Linkou county from remote sensing images in Arcmap</p>     
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
-- Innovative Research and Design - 4 weeks (A)     </p>                            
-<p style="font-family: times, serif; font-size:12pt">
-02/2017-03/2017, I participated "Challenge Cup" National undergraduate Business Plan Competition. In this competition, our team won the silver award of Heilongjiang division.    
-Main task: making operation plan for </p>     
+  
 
 <br/>
 
 
+## <span style="font-family:Papyrus;font-style:italic;">Language</span>
+
+
+<br/>
+
+
+**Chinese -- mother tongue**                    
+**English -- working proficiency level C1-C2**             
+**Dutch -- A1-A2**                    
+
+
+<br/>
+
+
+## <span style="font-family:Papyrus;font-style:italic;">Hobby</span>
+
+
+<br/>
+
+Drawing. Piano. Fitness.
+
+
+<br/>
+
 ## <span style="font-family:Papyrus;font-style:italic;">Contact Information</span>
+
+
+<br/>
+
 <p style="font-family: times, serif; font-size:12pt">
 Work Email: zhangmm1995@gmail.com     
 Telephone number: +31 0615167414     
