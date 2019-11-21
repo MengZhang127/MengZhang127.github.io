@@ -22,16 +22,15 @@
 
 <br/>
 
+
 ## <span style="font-family:Bebas Neue;color:#005cc5">Education & Experiences</span>
 
 <br/>
 
 
 
-<p style="font-family:Papyrus;font-size:16pt;font-style:italic;color:#444d56">**Master degree**</p>      09/2017-09/2019
-
+<p style="font-family:Papyrus;font-size:16pt;">**Master degree**</p>      09/2017-09/2019   
 <img style="float: middle;" src="figures/WUR.PNG" width=15% > <span style="font-family:Papyrus; font-size:12pt;"> **Wageningen University & Research** <span style="font-family:Papyrus;font-size:12pt;font-style:italic;"> --**Geo-information Science(GIS)** </span> </span>          
-
 
 
 <p style="font-family:times;font-size:14pt;font-style:italic; color:#586069">
@@ -55,21 +54,10 @@
 **Internship** </p>     05/2019-09/2019: 
 <p style="font-family:times;font-size:12pt;">
 Topic: Accuracy assessment and improvement of tree localization algorithm       
-Supervisor: Smart Farm Sensing. BV      Laurens Bierens, Joost van der Gaag, dr.ir. L (Lammert) Kooistra  (associate professor)
+Supervisor: Smart Farm Sensing. BV,        Laurens Bierens, Joost van der Gaag, dr.ir. L (Lammert) Kooistra  (associate professor)      
+Gained skills:
 </p>
 
-
-The company desires to develop **an automatic workflow for extraction of accurate plant information** and implementation of these information in ArgIOT application. AgrIOT application is a platform that utilizes open source maps and very high resolution (VHR) satellite data to extract individual tree geo-locations of date palm areas. Based on the geo-locations, data base records of individual date palm trees are generated for palm tree data management. Farmers could access individual date palm information via the AgrIOT platform (mobile apps and web-portal).
-
-Currently, company owns an automate algorithm (SVD) to detect tree location by integrating GIS/RS data, for instance from aerial photographs and satellite images(WorldView-3). However, it is essential to examine how well the algorithm functions and how the algorithm can be incorporated for company future usage. **A testing algorithm (TSVD) is created in both R and Python in this research for examining the accuracy of SVD algorithm.** 
-
-<br/>
-
-**Example of outcomes**
-
-<p align="left">
-<img style="float: middle;" src="figures/workflow.jpg" height = 80% width=60% ><p>
-**Figure 1: Workflow of using SVD and TSVD detecting plant information**
 
 
 <br/>
@@ -80,42 +68,25 @@ Currently, company owns an automate algorithm (SVD) to detect tree location by i
 **Thesis** </p>     09/2018-04/2019:
 <p style="font-family:times;font-size:12pt;">
 Topic: Spatial Analysis and Visualization of Triadic Crop Variety Traits in Central America    
-Supervisor: dr.ir. S (Sytze) de Bruin   (associate professor)
+Supervisor: dr.ir. S (Sytze) de Bruin   (associate professor)           
+Gained skills: 
 </p>
 
-**Abstract**
-
-A rapid increase in population, urbanization, and climate change has put huge pressures on all aspects of society, and in particular agriculture. These pressures lead to a massive demand of agriculture products which is increasingly difficult to meet due to climate change, or more specifically the challenges climate change introduces to farmers. _**Seeds for Needs**_ is a global initiative from the Bioversity International Research Center which is aiming to help farmers adapt better to climate change through the use of agriculture biodiversity. The method employed by this Seeds for Needs initiative is called _**‘Tricot’ (Triadic Comparisons of Technologies)**_ and consists of a farm-specific comparisons between three randomly-assigned crop varieties (sampled from a large set) which are then also compared to local varieties. **Numerous environmental datasets were linked in a spatially explicit way for each observation (e.g. elevation, temperature, and water balance), this was possible because all the farms were geo-located.** These datasets were used to produce valuable information about the interactions between crop variety performance and crop growing environment. The method employed here included the Hargreaves method which calculated the necessary evapotranspiration, and ultimately the water balance. **The _Plackett-Luce statistical model_ was then used to predict crop varieties performance under different environmental situations using model based recursive partitioning of environmental covariates.** As the data for these covariates were spatially explicit and continuous, all model results were able to be visualized by an interactive webpage which allowed farmers to assess appropriate crops for their particular farms. 
-
-<br/>
-
-**Example of outcomes**
-
-<p align="left">
-<img style="float: middle;" src="figures/elevation.jpg" height = 80% width=60% ><p>
-**Figure 2: Crop performance ranking when only use elevation as environmental factor in Plackett-Luce model using R**
-
-
-<br/>
-
-<p align="left">
-<img style="float: middle;" src="figures/shiny.jpg"  >
-<p>
-**Figure 3: Interactive map webpage for accessing crop variety ranking (main user interface in Rshiny)**
 
 
 <br/>
 
 
 
+<br/>
 
-<p style="font-family:Bebas Neue;font-size:16pt;font-style:italic;color:#444d56">
-**Bachelor degree**</p>      09/2013-08/2017  
+
+<p style="font-family:Papyrus;font-size:16pt;">**Bachelor degree**</p>      09/2013-08/2017  
 <img style="float: middle;" src="figures/hlj.JPG" width=7%  ><span style="font-family:Papyrus; font-size:1.2em;">**Heilongjiang Institute of Technology**</span> --- <span style="font-family:Papyrus;font-size:12pt;font-style:italic;"> **Remote Sensing** </span>   
 
+<br/>
 
-
-<p style="font-family:times;font-size:14pt;font-style:italic">
+<p style="font-family:times;font-size:14pt;font-style:italic;color:#586069">
 **Main courses:**   
 </p>
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
@@ -146,9 +117,11 @@ A rapid increase in population, urbanization, and climate change has put huge pr
 
 <br/>
 
-<p style="font-family:times;font-size:14pt;font-style:italic">
+<p style="font-family:times;font-size:14pt;font-style:italic;color:#586069">
 **Experiences:**   
 </p>
+- Awarded scholarship for 3 times
+
 - 02/2017-03/2017     Innovative Research and Design - 4 weeks (A)     </p>                            
 <p style="font-family: times, serif; font-size:12pt">
 I participated "Challenge Cup" National undergraduate Business Plan Competition. In this competition, our team won the silver award of Heilongjiang division.    
@@ -175,9 +148,15 @@ Main tasks: digitalize the newly-added built-up land in Linkou county from remot
 <br/>
 
 
-**Chinese -- mother tongue**                    
-**English -- working proficiency level C1-C2**             
-**Dutch -- A1-A2**                    
+- Chinese -- mother tongue      
+
+- English -- working proficiency level C1-C2            
+
+- Dutch -- A1-A2    
+
+
+<br/>
+
 
 
 <br/>
@@ -188,7 +167,9 @@ Main tasks: digitalize the newly-added built-up land in Linkou county from remot
 
 <br/>
 
-Drawing. Piano. Fitness.
+- Drawing    
+- Piano       
+- Fitness
 
 
 <br/>

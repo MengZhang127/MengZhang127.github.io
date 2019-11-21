@@ -1,0 +1,24 @@
+---
+   title: <span style="font-family:Babas; font-size:1.2em;">Internship</span>
+
+---
+
+<br/>
+
+
+#### <span style="font-family:times;font-size:12pt0 color:black;">The company desires to develop **an automatic workflow for extraction of accurate plant information** and implementation of these information in its ArgIOT application. AgrIOT application is a platform that utilizes open source maps and very high resolution (VHR) satellite data to extract individual tree geo-locations of date palm areas. Based on the geo-locations, data base records of individual date palm trees are generated for palm tree data management. Farmers could access individual date palm information via the AgrIOT platform (mobile apps and web-portal).</span>
+
+<br/>
+
+
+####  <span style="font-family:times;font-size:12pt0 color:black;">Currently, company owns an automate algorithm (SVD) to detect tree location by integrating GIS/RS data, for instance from aerial photographs and satellite images(WorldView-3). However, it is essential to examine how well the algorithm functions and how the algorithm can be incorporated for company future usage. **A testing algorithm (TSVD) is created in both R and Python in this research for examining the accuracy of SVD algorithm.** </span>
+
+
+
+<br/>
+
+###  **Example of outcomes**
+
+<p align="left">
+<img style="float: middle;" src="figures/workflow.jpg" height = 80% width=60% ><p>
+####  Figure 1: Workflow of using SVD and TSVD detecting plant information
