@@ -1,5 +1,5 @@
 ---
-  title: <span style="font-family:Babas; font-size:1.2em;">Thesis (summary)</span>
+  title: <span style="font-family:Babas; font-size:1.2em;">Thesis (briefly summary)</span>
 ---
 
 <br/>

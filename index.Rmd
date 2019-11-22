@@ -17,7 +17,7 @@
 ## <span style="font-family:Babas;color:#005cc5">Profile</span>
 
 <p style="font-family: times, serif; font-size:13pt">
-   A recent graduate student with professional experience in _**Remote Sensing**_, _**GIS**_ and _**data analytics**_. Master both scripting environments (_**R,Python**_) and dedicated GIS/RS platforms (_**QGIS, ENVI, ERDAS IMAGINE, Esri, GRASS GIS, SAGA GIS**_). Own skills with regards to large scale dataset (_**vector, raster, 3D point cloud data**_) analyzation. Always been a fast, motivated learner. Earger to explore and learn new things. Always seek challenges to improve herself. Aiming to use her knowledge as "power" to make the world a better place to live ;).<p/>
+   A recent graduate student with professional experience in _**Remote Sensing**_, _**GIS**_ and _**data analytics**_. Master both scripting environments (_**R,Python**_) and dedicated GIS/RS platforms (_**QGIS, ENVI, ERDAS IMAGINE, Esri, GRASS GIS, SAGA GIS**_). Own skills with regards to large scale dataset (_**vector, raster, 3D point cloud data**_) analyzation. Always been a fast, motivated learner. Eager to explore and learn new things. Always seek challenges to improve herself. Aiming to use her knowledge as "power" to make the world a better place to live ;).<p/>
 
 
 <br/>
@@ -55,7 +55,10 @@
 <p style="font-family:times;font-size:12pt;">
 Topic: Accuracy assessment and improvement of tree localization algorithm       
 Supervisor: Smart Farm Sensing. BV,        Laurens Bierens, Joost van der Gaag, dr.ir. L (Lammert) Kooistra  (associate professor)      
-Gained skills:
+Gained skills:                     
+- Develop/optimize algorithm in R and Python           
+- Object-detection from VHR imagery          
+
 </p>
 
 
@@ -69,7 +72,11 @@ Gained skills:
 <p style="font-family:times;font-size:12pt;">
 Topic: Spatial Analysis and Visualization of Triadic Crop Variety Traits in Central America    
 Supervisor: dr.ir. S (Sytze) de Bruin   (associate professor)           
-Gained skills: 
+Gained skills:                 
+- Spatial & temporal statistics and modelling in R                  
+- Handle large multidimensional arrays                
+- Web-GIS/interactive visualization in Rshiny                    
+ 
 </p>
 
 

@@ -19,6 +19,8 @@
 
 ###  **Example of outcomes**
 
+<br/>
+
 <p align="left">
 <img style="float: middle;" src="figures/workflow.jpg" height = 80% width=60% ><p>
-####  Figure 1: Workflow of using SVD and TSVD detecting plant information
+####  <span style="font-family:times;font-size:10pt0 color:black;">_Figure 1: Workflow of using SVD and TSVD algorithm detecting plant information_ </span>
