@@ -45,7 +45,7 @@
 - Geo-tools (Arcmap)   
 - Advanced GIS  (R,Arcmap)       
 - GIS in context   
-- Academic Consultancy Training (Python, Arcmap, R)
+- Remote Sensing and GIS Integration (Python, Arcmap, R)
 </p>
 
 <br/>
