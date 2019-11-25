@@ -98,7 +98,7 @@ Gained skills:
 </p>
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
 - Advance Mathematics (82/100)        
-- Probabiliry and Mathematical Statistics  (89/100)       
+- Probability and Mathematical Statistics  (89/100)       
 - College Physics Experiment (B)
 - Advanced Language Programming C# (B)
 - Principles and Applications of Remote Sensing  (B)         
