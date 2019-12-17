@@ -97,29 +97,29 @@ Gained skills:
 **Main courses:**   
 </p>
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
-- Advance Mathematics (82/100)        
-- Probability and Mathematical Statistics  (89/100)       
-- College Physics Experiment (B)
-- Advanced Language Programming C# (B)
-- Principles and Applications of Remote Sensing  (B)         
-- Digital Image Processing  (90/100)   
-- Foundation of Geodesy  (88/100)    
-- Surveying and Mapping Case Analysis (A)
-- Computer Cartography (A)
-- Photogrammetry  (90/100)    
-- GNSS Navigation and Poritioning  (A)        
-- Photogrammetry Field Pratice   (A)      
-- Principles of Geographic Information System (91/100)    
-- Urban Remote Sensing  (A)      
-- CAD Technology  (A)       
-- Remote Sensing Mapping  (A)       
-- ENVI/IDL Remote Sensing Data Processing - 1 week  (A)       
-- Professional skills integrated pratice - 4 weeks  (B)     
-- Digital Mapping Principles and Methods Pratice - 4 weeks (A)      
-- Surveying Pratice - 2 weeks (B)     
-- Practice for RS Image Processing - 1 week (A)          
-- Pratice of Professional Direction - 6 weeks (A)        
-- Innovative Research and Design - 4 weeks (A)     
+- Advance Mathematics                       
+- Probability and Mathematical Statistics                     
+- College Physics Experiment                 
+- Advanced Language Programming C#                 
+- Principles and Applications of Remote Sensing                       
+- Digital Image Processing                      
+- Foundation of Geodesy                
+- Surveying and Mapping Case Analysis                
+- Computer Cartography                       
+- Photogrammetry                        
+- GNSS Navigation and Poritioning                             
+- Photogrammetry Field Pratice                         
+- Principles of Geographic Information System                       
+- Urban Remote Sensing                   
+- CAD Technology                      
+- Remote Sensing Mapping               
+- ENVI/IDL Remote Sensing Data Processing - 1 week                       
+- Professional skills integrated pratice - 4 weeks                     
+- Digital Mapping Principles and Methods Pratice - 4 weeks                       
+- Surveying Pratice - 2 weeks                   
+- Practice for RS Image Processing - 1 week                        
+- Pratice of Professional Direction - 6 weeks                   
+- Innovative Research and Design - 4 weeks                               
 </p>
 
 <br/>
@@ -166,20 +166,7 @@ Main tasks: digitalize the newly-added built-up land in Linkou county from remot
 
 
 
-<br/>
 
-
-## <span style="font-family:Bebas Neue;color:#005cc5">Hobby</span>
-
-
-<br/>
-
-- Drawing    
-- Piano       
-- Fitness
-
-
-<br/>
 
 ## <span style="font-family:Bebas Neue;color:#005cc5">Contact Information</span>
 
