@@ -36,7 +36,7 @@
 <p style="font-family:times;font-size:14pt;font-style:italic; color:#586069">
 **Main courses:**   
 </p>
-<p style="font-family: times, serif; font-size:13pt; font-style:italic">
+<p style="font-family: times, serif; font-size:13pt">
 - Python    
 - Remote Sensing (ENVI, ERDAS)       
 - Geo-scripting (R)         
@@ -48,17 +48,39 @@
 - Remote Sensing and GIS Integration (Python, Arcmap, R)
 </p>
 
+***Gained skills***    
+      
+<p style="font-family: times, serif; font-size:13pt">
+- Become familiar with geocoding            
+- Analyzing and managing LiDAR datasets     
+- Interpretation of satellite imagery, image analysis, and photo interpretation   
+- SQL                  
+- Experience with Web development          
+- Model builder        
+- Map design and production       
+- Data creation and editing      
+- Design and use databases within GIS     
+- Communication & teamwork       
+</p>
+
 <br/>
 
 <p style="font-family:times;font-size:14pt;font-style:italic;color:#586069">
 **Internship** </p>     05/2019-09/2019: 
 <p style="font-family:times;font-size:12pt;">
-Topic: Accuracy assessment and improvement of tree localization algorithm       
-Supervisor: Smart Farm Sensing. BV,        Laurens Bierens, Joost van der Gaag, dr.ir. L (Lammert) Kooistra  (associate professor)      
-Gained skills:                     
-- Develop/optimize algorithm in R and Python           
-- Object-detection from VHR imagery          
 
+***Topic: Accuracy assessment and improvement of tree localization algorithm***                
+Supervisor: Smart Farm Sensing. BV,        Laurens Bierens, Joost van der Gaag, dr.ir. L (Lammert) Kooistra  (associate professor)      
+
+         
+***Gained skills:***   
+  
+     
+- Develop/optimize algorithm in R and Python           
+- Object-detection from VHR imagery     
+- Are able to communicate complex GIS concepts to entry level users         
+- Can work both independently and function well in a team environment         
+- Can multitask and balance priorities with work load
 </p>
 
 
@@ -69,14 +91,24 @@ Gained skills:
 
 <p style="font-family:times;font-size:14pt;font-style:italic;color:#586069">
 **Thesis** </p>     09/2018-04/2019:
+
+
 <p style="font-family:times;font-size:12pt;">
-Topic: Spatial Analysis and Visualization of Triadic Crop Variety Traits in Central America    
-Supervisor: dr.ir. S (Sytze) de Bruin   (associate professor)           
-Gained skills:                 
+
+***Topic: Spatial Analysis and Visualization of Triadic Crop Variety Traits in Central America***         
+Supervisor: dr.ir. S (Sytze) de Bruin   (associate professor)          
+
+
+     
+***Gained skills: ***     
+
+    
 - Spatial & temporal statistics and modelling in R                  
 - Handle large multidimensional arrays                
-- Web-GIS/interactive visualization in Rshiny                    
- 
+- Web-GIS/interactive visualization in Rshiny        
+- Developing research skills               
+- Can to learn new technologies, skills and software platforms/extensions quickly with minimal oversight      
+- Self-motivated and pro-active
 </p>
 
 
@@ -96,7 +128,7 @@ Gained skills:
 <p style="font-family:times;font-size:14pt;font-style:italic;color:#586069">
 **Main courses:**   
 </p>
-<p style="font-family: times, serif; font-size:12pt; font-style:italic">
+<p style="font-family: times, serif; font-size:12pt">
 - Advance Mathematics                       
 - Probability and Mathematical Statistics                     
 - College Physics Experiment                 
@@ -122,16 +154,32 @@ Gained skills:
 - Innovative Research and Design - 4 weeks                               
 </p>
 
+
+***Gained skills***     
+   
+<p style="font-family: times, serif; font-size:13pt">
+- Interpretation of satellite imagery, image analysis, and photo interpretation   
+- SQL                  
+- Map design and production       
+- Data creation and editing      
+- Design and use databases within GIS     
+- GPS field data collection    
+- Georeferencing/Datums/Projections     
+- Data conversion         
+- Metadata implementation        
+- AutoCAD and integration of GIS and CAD
+</p>
+
 <br/>
 
-<p style="font-family:times;font-size:14pt;font-style:italic;color:#586069">
+<p style="font-family:times;font-size:14pt;color:#586069">
 **Experiences:**   
 </p>
 - Awarded scholarship for 3 times
 
 - 02/2017-03/2017     Innovative Research and Design - 4 weeks (A)     </p>                            
 <p style="font-family: times, serif; font-size:12pt">
-I participated "Challenge Cup" National undergraduate Business Plan Competition. In this competition, our team won the silver award of Heilongjiang division.    
+I participated in "Challenge Cup" National undergraduate Business Plan Competition. In this competition, our team won the silver award of Heilongjiang division.    
 Main task: making operation plan for the Pipeline Detection Application</p>   
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
 - 07/2016-08/2016     Professional skills integrated pratice - 4 weeks (B) </p>                            
