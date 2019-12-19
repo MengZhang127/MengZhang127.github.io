@@ -42,10 +42,10 @@
 - Geo-scripting (R)         
 - Advanced earth observation  
 - Spatial modelling & statistics (R)        
-- Geo-tools (Arcmap)   
-- Advanced GIS  (R,Arcmap)       
+- Geo-tools (ArcMap)   
+- Advanced GIS  (R,ArcMap)       
 - GIS in context   
-- Remote Sensing and GIS Integration (Python, Arcmap, R)
+- Remote Sensing and GIS Integration (Python, ArcMap, R)
 </p>
 
 ***Gained skills***    
@@ -191,7 +191,7 @@ Five peer students as a group measured all the buildings in the university by us
 <p style="font-family: times, serif; font-size:12pt">
 As the cooperation project of the University and State Bureau of Surveying and Mapping, I joined the annual National Land Use Change Survey in Heilongjiang Province.  
 The aim of the project: The State government purchase the latest remote sensing images covering the whole territory to monitor the situation of newly added built-up land and the occupation on farmland, and then send down monitoring result to the lower level goverments to assist land use chnage survey.   
-Main tasks: digitalize the newly-added built-up land in Linkou county from remote sensing images in Arcmap</p>     
+Main tasks: digitalize the newly-added built-up land in Linkou county from remote sensing images in ArcMap</p>     
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
   
 
