@@ -17,7 +17,7 @@
 ## <span style="font-family:Babas;color:#005cc5">Profile</span>
 
 <p style="font-family: times, serif; font-size:13pt">
-   A recent graduate student with professional experience in _**Remote Sensing**_, _**GIS**_ and _**data analytics**_. Master both scripting environments (_**R,Python**_) and dedicated GIS/RS platforms (_**QGIS, ENVI, ERDAS IMAGINE, Esri, GRASS GIS, SAGA GIS**_). Own skills with regards to large scale dataset (_**vector, raster, 3D point cloud data**_) analyzation. Always been a fast, motivated learner. Eager to explore and learn new things. Always seek challenges to improve herself. Aiming to use her knowledge as "power" to make the world a better place to live ;).<p/>
+   A recent graduate student with professional experience in _**Remote Sensing**_, _**GIS**_ and _**data analytics**_. Master both scripting environments (_**R,Python**_) and dedicated GIS/RS platforms (_**QGIS, ENVI, ERDAS IMAGINE, ArcGIS**_). Own skills with regards to large scale dataset (_**vector, raster, 3D point cloud data**_) analyzation. Always been a fast, motivated learner. Eager to explore and learn new things. Always seek challenges to improve herself. Aiming to use her knowledge as "power" to make the world a better place to live ;).<p/>
 
 
 <br/>
@@ -56,7 +56,8 @@
 - Interpretation of satellite imagery, image analysis, and photo interpretation   
 - SQL                  
 - Experience with Web development          
-- Model builder        
+- Time-series analysis                
+- Model builder           
 - Map design and production       
 - Data creation and editing      
 - Design and use databases within GIS     
@@ -140,17 +141,17 @@ Supervisor: dr.ir. S (Sytze) de Bruin   (associate professor)
 - Computer Cartography                       
 - Photogrammetry                        
 - GNSS Navigation and Poritioning                             
-- Photogrammetry Field Pratice                         
+- Photogrammetry Field Practice                         
 - Principles of Geographic Information System                       
 - Urban Remote Sensing                   
 - CAD Technology                      
 - Remote Sensing Mapping               
 - ENVI/IDL Remote Sensing Data Processing - 1 week                       
-- Professional skills integrated pratice - 4 weeks                     
-- Digital Mapping Principles and Methods Pratice - 4 weeks                       
-- Surveying Pratice - 2 weeks                   
+- Professional skills integrated practice - 4 weeks                     
+- Digital Mapping Principles and Methods Practice - 4 weeks                       
+- Surveying Practice - 2 weeks                   
 - Practice for RS Image Processing - 1 week                        
-- Pratice of Professional Direction - 6 weeks                   
+- Practice of Professional Direction - 6 weeks                   
 - Innovative Research and Design - 4 weeks                               
 </p>
 
@@ -177,16 +178,16 @@ Supervisor: dr.ir. S (Sytze) de Bruin   (associate professor)
 </p>
 - Awarded scholarship for 3 times
 
-- 02/2017-03/2017     Innovative Research and Design - 4 weeks (A)     </p>                            
+- 02/2017-03/2017     Innovative Research and Design - 4 weeks      </p>                            
 <p style="font-family: times, serif; font-size:12pt">
 I participated in "Challenge Cup" National undergraduate Business Plan Competition. In this competition, our team won the silver award of Heilongjiang division.    
 Main task: making operation plan for the Pipeline Detection Application</p>   
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
-- 07/2016-08/2016     Professional skills integrated pratice - 4 weeks (B) </p>                            
+- 07/2016-08/2016     Professional skills integrated pratice - 4 weeks  </p>                            
 <p style="font-family: times, serif; font-size:12pt">
 Five peer students as a group measured all the buildings in the university by using digital levels, theodolites, and total station. As the team leader, I was in charge of making measure plans and analyze collected data. </p>     
 <p style="font-family: times, serif; font-size:12pt; font-style:italic">
-- 06/2016- 07/2016    Pratice of Professional Direction - 6 weeks (A)  </p>                            
+- 06/2016- 07/2016    Pratice of Professional Direction - 6 weeks   </p>                            
 <p style="font-family: times, serif; font-size:12pt">
 As the cooperation project of the University and State Bureau of Surveying and Mapping, I joined the annual National Land Use Change Survey in Heilongjiang Province.  
 The aim of the project: The State government purchase the latest remote sensing images covering the whole territory to monitor the situation of newly added built-up land and the occupation on farmland, and then send down monitoring result to the lower level goverments to assist land use chnage survey.   
@@ -207,7 +208,7 @@ Main tasks: digitalize the newly-added built-up land in Linkou county from remot
 
 - English -- working proficiency level C1-C2            
 
-- Dutch -- A1-A2    
+- Dutch -- A1-A2 (actively learning towards higher level)
 
 
 <br/>
